@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo dimeira</h1>
-<h3 align="center">A studding,to become a full stack developer from Brazil</h3>
+<h3 align="center">Currently Studding to become a full stack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavodimeira&label=Profile%20views&color=0e75b6&style=flat" alt="gustavodimeira" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gustavodimeira1@gmail.com**
 
-- ⚡ Fun fact **studying control and automation engineering while taking the trybe programming course!!!**
+- ⚡ Fun fact **in addition to programming. I'm also studying control and automation engineering in college!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
