@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <div>
   <h1>Hi 👋, I'm Gustavo dimeira</h1>
   <h3>Currently Studding to become a full stack developer from Brazil</h3>
@@ -188,17 +189,21 @@
     width: 50px;
     height: 50px;
   }
-
-  ;
-
-  .icon {}
-
-  ;
-
-  .icon-div {}
-
-  ;
 </style>
 <script>
   const main = document.getElementsByClassName("main");
 </script>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
