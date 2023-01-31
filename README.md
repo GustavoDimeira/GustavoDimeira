@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavodimeira&label=Profile%20views&color=0e75b6&style=flat" alt="gustavodimeira" /> </p>
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **P.O.O.**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **gustavodimeira1@gmail.com**
 
