@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavodimeira" alt="gustavodimeira" /></a> </p>
 
-- 🔭 I’m currently working on [a chess game](calmala.com)
+- 🔭 I’m currently working on [a chess game](chess)
 
 - 🌱 I’m currently learning **mongodb**
 
