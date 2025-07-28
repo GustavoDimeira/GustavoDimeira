@@ -1,17 +1,19 @@
 <h1 align="center">Olá 👋, eu sou o Gustavo Dimeira</h1>
-<h3 align="center">Full-stack Developer & AI Researcher in Progress</h3>
+<h3 align="center">Full-stack Developer · IA · Visão Computacional</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=gustavodimeira&label=Profile%20views&color=0e75b6&style=flat" alt="gustavodimeira" />
 </p>
 
 ---
 
-🎓 **Graduando em Engenharia de Controle e Automação**  
-🧠 **Pesquisador em Visão Computacional e Deep Learning**  
-💻 Atualmente desenvolvendo um [jogo de xadrez](https://github.com/GustavoDimeira/chess) em React/TypeScript.  
-🔬 Trabalhando com modelos como Faster R-CNN, SABL, RetinaNet, FoveaBox e Deformable DETR para detecção de peixes em imagens de aquários.  
-📊 Automatizando análise estatística e geração de gráficos com R + ggplot2 + LaTeX.
+🎓 **Graduando em Engenharia de Controle e Automação (UCDB)**  
+🧠 **Experiência com Visão Computacional, IA e Raspberry Pi**  
+💻 Desenvolvendo um [jogo de xadrez](https://github.com/GustavoDimeira/chess) com React/TypeScript  
+📱 Criando aplicações mobile com **Flutter** e **React Native**  
+🧪 Atuando com integração de IA para **assistência ao motorista**, **reconhecimento facial** e **detecção de gestos**  
+📊 Automatizando análises com R, `ggplot2`, LaTeX e Python  
+📦 Experiência com APIs, banco de dados, dockerização e testes
 
 ---
 
@@ -26,20 +28,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
 </div>
 
 ---
 
-### 🧠 Pesquisas e Ferramentas de IA
+### 🧠 Inteligência Artificial e Pesquisa
 
-- Python · NumPy · OpenCV · MMDetection  
-- Análise estatística com R, `ggplot2`, `tidyverse`  
-- Geração de relatórios científicos com LaTeX  
-- Experimentos com **Small Object Detection**, tiling e validação cruzada
+- Modelagem e treinamento de IA com PyTorch e TensorFlow  
+- MMDetection, OpenCV, técnicas de Small Object Detection  
+- Raspberry Pi integrado a visão computacional  
+- Reconhecimento facial e detecção de comportamento em vídeos  
+- Geração automática de gráficos e relatórios científicos (R + LaTeX)
 
 ---
 
@@ -60,4 +66,4 @@
 
 ---
 
-⭐ Sempre curioso por aprender e resolver problemas com tecnologia.
+⭐ Sempre curioso por aprender, automatizar e construir soluções com tecnologia.
